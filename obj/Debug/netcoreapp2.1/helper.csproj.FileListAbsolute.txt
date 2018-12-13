@@ -1,0 +1,11 @@
+/home/luper/Projects/helper/obj/Debug/netcoreapp2.1/helper.csprojAssemblyReference.cache
+/home/luper/Projects/helper/obj/Debug/netcoreapp2.1/helper.csproj.CoreCompileInputs.cache
+/home/luper/Projects/helper/obj/Debug/netcoreapp2.1/helper.AssemblyInfoInputs.cache
+/home/luper/Projects/helper/obj/Debug/netcoreapp2.1/helper.AssemblyInfo.cs
+/home/luper/Projects/helper/bin/Debug/netcoreapp2.1/helper.deps.json
+/home/luper/Projects/helper/bin/Debug/netcoreapp2.1/helper.runtimeconfig.json
+/home/luper/Projects/helper/bin/Debug/netcoreapp2.1/helper.runtimeconfig.dev.json
+/home/luper/Projects/helper/bin/Debug/netcoreapp2.1/helper.dll
+/home/luper/Projects/helper/bin/Debug/netcoreapp2.1/helper.pdb
+/home/luper/Projects/helper/obj/Debug/netcoreapp2.1/helper.dll
+/home/luper/Projects/helper/obj/Debug/netcoreapp2.1/helper.pdb
